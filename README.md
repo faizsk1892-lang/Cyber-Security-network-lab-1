@@ -99,17 +99,7 @@ The main objective is to create a virtual environment for learning cybersecurity
 ![Kali Terminal](Kali_Terminal.png)
 
 ```text
-screenshots/
-├── virtualbox-setup.png
-├── kali-installation.png
-├── kali-desktop.png
-└── terminal.png
-```
 
-Example:
-
-```markdown
-![Kali Linux Desktop](screenshots/kali-desktop.png)
 ```
 
 ## 🔐 Disclaimer
@@ -120,7 +110,7 @@ All security experiments should be performed only in your own lab environment or
 
 ## 👨‍💻 Author
 
-**Faiz SK**
+**FAIZAN SHAIKH**
 
 Cybersecurity Enthusiast | Aspiring SOC Analyst | VAPT Learner
 
