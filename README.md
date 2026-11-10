@@ -84,7 +84,19 @@ The main objective is to create a virtual environment for learning cybersecurity
 
 ## 📸 Screenshots
 
-Add your actual lab screenshots here.
+## 📸 Lab Setup Screenshots
+
+### 1. VirtualBox Setup
+![VirtualBox Setup](Virtual_box_Setup.png)
+
+### 2. Kali Linux Installation
+![Kali Installation](Kali_Installation.png)
+
+### 3. Kali Linux Desktop
+![Kali Desktop](Kali_Desktop.png)
+
+### 4. Kali Linux Terminal
+![Kali Terminal](Kali_Terminal.png)
 
 ```text
 screenshots/
